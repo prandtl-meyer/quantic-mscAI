@@ -6,3 +6,4 @@ console.log("another trivial change");
 console.log("yet another trivial change");
 
 console.log("feature branch change 1");
+console.log("feature branch change 2");
